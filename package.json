@@ -1,0 +1,23 @@
+{
+  "name": "git-pratica-17-08-2026",
+  "version": "1.0.0",
+  "description": "Atividade prática referente ao dia 17/08/2026 do componente curricular Integração e Entrega Contínua do curso de Desenvolvimento de Software e Multiplataforma 4° semestre do campus FATEC MAUÁ, ministrada pelo professor Carlos Ronny.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oiLopez/GIT-PRATICA-17-08-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oiLopez/GIT-PRATICA-17-08-2026/issues"
+  },
+  "homepage": "https://github.com/oiLopez/GIT-PRATICA-17-08-2026#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
